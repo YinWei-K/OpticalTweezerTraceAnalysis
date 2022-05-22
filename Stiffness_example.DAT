@@ -1,0 +1,10 @@
+% height kx ky kz dkx dky dkz sum Cx Cy Cz dCx dCy dCz Chi2x Chi2y Chi2z ZnmAvg LaserIntEpi NoPx NoPy NoPz T
+% Height (micron), Stiffness k (xyz) (pN/nm), Error dk (xyz), Sum (V), Distance Response C (xyz) (nm/mV), Error dC (xyz), reduced Chi^2 (xyz), ZstageMonitorAvg(V), LaserIntEpi(V), Number of Fitpoints (xyz), Temperature(C)
+% N, S, averages, lower bound fit x, lower bound fit y, lower bound fit z, upper bound fit x, upper bound fit y, upper bound fit z, excitation frequency, d, Dd
+%    12800   102400       40       40        8    18000     2000  32.0000    0.5900    0.0000
+%
+3.0000E-1 2.5655E-1 2.8713E-1 2.9180E-2 1.6714E-3 1.9372E-3 5.3704E-4 8.7235E+0 1.8867E-1 1.5263E-1 5.3903E-1 7.0869E-4 6.2517E-4 5.7773E-3 1.1674E+0 1.1645E+0 1.0244E+0 7.6202E+0 -2.5738E-4 2.2460E+3 2.2460E+3 2.5000E+2       NaN
+2.2500E-1 2.4747E-1 2.8165E-1 2.7431E-2 1.6030E-3 1.8447E-3 5.1372E-4 8.7229E+0 1.9214E-1 1.5448E-1 5.4778E-1 7.0565E-4 6.0892E-4 5.8050E-3 1.1763E+0 1.1128E+0 1.0966E+0 7.6950E+0 -2.5623E-4 2.2460E+3 2.2460E+3 2.5000E+2       NaN
+1.5000E-1 2.4223E-1 2.7457E-1 2.4625E-2 1.5870E-3 1.7867E-3 4.7987E-4 8.7278E+0 1.9385E-1 1.5644E-1 5.8297E-1 7.1290E-4 6.0559E-4 6.1091E-3 1.2157E+0 1.1178E+0 1.2414E+0 7.7700E+0 -2.5518E-4 2.2460E+3 2.2460E+3 2.5000E+2       NaN
+7.5000E-2 2.3424E-1 2.6144E-1 2.3639E-2 1.5026E-3 1.7054E-3 4.2258E-4 8.7308E+0 1.9764E-1 1.5976E-1 5.9869E-1 7.0049E-4 6.0616E-4 5.6438E-3 1.1828E+0 1.1580E+0 1.0578E+0 7.8450E+0 -2.5679E-4 2.2460E+3 2.2460E+3 2.5000E+2       NaN
+-2.7756E-17 2.2403E-1 2.5137E-1 2.0943E-2 1.4290E-3 1.6409E-3 4.0276E-4 8.7349E+0 2.0255E-1 1.6277E-1 6.1497E-1 6.9891E-4 6.0685E-4 5.8825E-3 1.1896E+0 1.1851E+0 1.2545E+0 7.9200E+0 -2.5373E-4 2.2460E+3 2.2460E+3 2.5000E+2       NaN
